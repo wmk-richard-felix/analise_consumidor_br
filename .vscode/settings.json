@@ -1,0 +1,9 @@
+{
+    "ecl.launchConfiguration": "localhost",
+    "ecl.targetCluster": {
+        "localhost": "thor"
+    },
+    "ecl.WUAutoOpen": true,
+    "ecl.syntaxCheckOnSave": true,
+    "ecl.eclccPath": "C:\\Program Files (x86)\\HPCCSystems\\7.8.90\\clienttools\\bin\\eclcc.exe"
+}
